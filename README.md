@@ -1,4 +1,4 @@
-![Who am I](https://github.com/morevo/morevo/blob/main/assets/22323_atmosmul0028_0363.png "Something photo")
+![Who am I](https://github.com/morevo/morevo/blob/main/assets/22323_atmosmul0001_0337.png "Something photo")
 
 <!--
 **morevo/morevo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
