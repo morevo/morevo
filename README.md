@@ -3,12 +3,10 @@
 
 <center>
 
-<span style="color:yellow">
-
-## I'm beginer Front-End Developer
-</span>
+<span style="color:yellow"> **## I'm beginer Front-End Developer** </span>
 
 [![My stats](https://github-readme-stats.vercel.app/api?username=morevo&theme=great-gatsby)](https://github.com/anuraghazra/github-readme-stats)
+
 </center>
 
 <!--
