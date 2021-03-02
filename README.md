@@ -1,8 +1,16 @@
+
 ![Who am I](https://github.com/morevo/morevo/blob/main/assets/22323_atmosmul0001_0370.png "Beginer Front-End Developer")
 
-## I'm beginer Front-End Developer 
+<center>
 
-[![My stats](https://github-readme-stats.vercel.app/api?username=morevo&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
+<span style="color:yellow">
+
+## I'm beginer Front-End Developer
+</span>
+
+[![My stats](https://github-readme-stats.vercel.app/api?username=morevo&theme=great-gatsby)](https://github.com/anuraghazra/github-readme-stats)
+</center>
+
 <!--
 
 
