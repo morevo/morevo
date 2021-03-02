@@ -5,6 +5,16 @@
   
 # I'm beginer Front-End Developer
 
+## Languages and Tools
+![JavaScript](https://img.shields.io/badge/JavaScript-0A090A?style=for-the-badge&logo=javascript)
+![Gulp](https://img.shields.io/badge/Gulp-0A090A?style=for-the-badge&logo=Gulp)
+![Scss](https://img.shields.io/badge/scss-0A090A?style=for-the-badge&logo=Sass)
+![less](https://img.shields.io/badge/less-0A090A?style=for-the-badge&logo=less) 
+![git](https://img.shields.io/badge/git-0A090A?style=for-the-badge&logo=git) 
+![github](https://img.shields.io/badge/github-0A090A?style=for-the-badge&logo=github) 
+![html](https://img.shields.io/badge/html-0A090A?style=for-the-badge&logo=html) 
+![css](https://img.shields.io/badge/css-0A090A?style=for-the-badge&logo=css) 
+![scss](https://img.shields.io/badge/scss-0A090A?style=for-the-badge&logo=scss) 
 
 <!--
 
