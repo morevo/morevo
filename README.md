@@ -25,4 +25,5 @@
 [![facebook](https://img.shields.io/badge/facebook-0A090A?style=for-the-badge&logo=facebook)](https://www.facebook.com/svilohuzov.ivan) 
 [![twitter](https://img.shields.io/badge/twitter-0A090A?style=for-the-badge&logo=twitter)](https://twitter.com/ivanSvilohuzov)
 [![telegram](https://img.shields.io/badge/telegram-0A090A?style=for-the-badge&logo=telegram)](https://t.me/Ivan_Nikokayevich) 
+![markdown](https://img.shields.io/badge/markdown-0A090A?style=for-the-badge&logo=markdown)
 
