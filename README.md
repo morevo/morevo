@@ -7,6 +7,8 @@
 
 ## Languages and Tools
 ![JavaScript](https://img.shields.io/badge/JavaScript-0A090A?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-0A090A?style=for-the-badge&logo=TypeScript)
+![React](https://img.shields.io/badge/React-0A090A?style=for-the-badge&logo=React)
 ![Gulp](https://img.shields.io/badge/Gulp-0A090A?style=for-the-badge&logo=Gulp)
 ![Scss](https://img.shields.io/badge/scss-0A090A?style=for-the-badge&logo=Sass)
 ![less](https://img.shields.io/badge/less-0A090A?style=for-the-badge&logo=less) 
