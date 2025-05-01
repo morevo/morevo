@@ -10,6 +10,8 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-0A090A?style=for-the-badge&logo=TypeScript)
 ![Vue](https://img.shields.io/badge/Vue-0A090A?style=for-the-badge&logo=vuedotjs)
 ![ReactQuery](https://img.shields.io/badge/ReactQuery-0A090A?style=for-the-badge&logo=reactquery)
+![Vite](https://img.shields.io/badge/Vite-0A090A?style=for-the-badge&logo=vite)
+![TailwindCss](https://img.shields.io/badge/TailwindCss-0A090A?style=for-the-badge&logo=tailwindcss)
 ![React](https://img.shields.io/badge/React-0A090A?style=for-the-badge&logo=React)
 ![Gulp](https://img.shields.io/badge/Gulp-0A090A?style=for-the-badge&logo=Gulp)
 ![Scss](https://img.shields.io/badge/scss-0A090A?style=for-the-badge&logo=Sass)
