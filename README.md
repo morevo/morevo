@@ -20,7 +20,7 @@
 ![git](https://img.shields.io/badge/git-0A090A?style=for-the-badge&logo=git) 
 ![github](https://img.shields.io/badge/github-0A090A?style=for-the-badge&logo=github) 
 ![markdown](https://img.shields.io/badge/markdown-0A090A?style=for-the-badge&logo=markdown)
-![html](https://img.shields.io/badge/html-0A090A?style=for-the-badge&logo=html) 
+![Html5](https://img.shields.io/badge/Html5-0A090A?style=for-the-badge&logo=html5) 
 ![css](https://img.shields.io/badge/css-0A090A?style=for-the-badge&logo=css) 
 
 ## Let's chat
