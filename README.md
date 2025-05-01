@@ -10,20 +10,18 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-0A090A?style=for-the-badge&logo=TypeScript)
 ![Vue](https://img.shields.io/badge/Vue-0A090A?style=for-the-badge&logo=vuedotjs)
 ![ReactQuery](https://img.shields.io/badge/ReactQuery-0A090A?style=for-the-badge&logo=reactquery)
+![React](https://img.shields.io/badge/React-0A090A?style=for-the-badge&logo=React)
+![ReactNative](https://img.shields.io/badge/ReactNative-0A090A?style=for-the-badge&logo=reactnative)
 ![Vite](https://img.shields.io/badge/Vite-0A090A?style=for-the-badge&logo=vite)
 ![TailwindCss](https://img.shields.io/badge/TailwindCss-0A090A?style=for-the-badge&logo=tailwindcss)
-![React](https://img.shields.io/badge/React-0A090A?style=for-the-badge&logo=React)
 ![Gulp](https://img.shields.io/badge/Gulp-0A090A?style=for-the-badge&logo=Gulp)
 ![Scss](https://img.shields.io/badge/scss-0A090A?style=for-the-badge&logo=Sass)
 ![less](https://img.shields.io/badge/less-0A090A?style=for-the-badge&logo=less) 
 ![git](https://img.shields.io/badge/git-0A090A?style=for-the-badge&logo=git) 
 ![github](https://img.shields.io/badge/github-0A090A?style=for-the-badge&logo=github) 
 ![markdown](https://img.shields.io/badge/markdown-0A090A?style=for-the-badge&logo=markdown)
-![jquery](https://img.shields.io/badge/jquery-0A090A?style=for-the-badge&logo=jquery)
-![sql](https://img.shields.io/badge/sql-0A090A?style=for-the-badge&logo=sql)
 ![html](https://img.shields.io/badge/html-0A090A?style=for-the-badge&logo=html) 
 ![css](https://img.shields.io/badge/css-0A090A?style=for-the-badge&logo=css) 
-![scss](https://img.shields.io/badge/scss-0A090A?style=for-the-badge&logo=scss) 
 
 ## Let's chat
 
