@@ -18,7 +18,7 @@
 ![Mobx](https://img.shields.io/badge/Mobx-0A090A?style=for-the-badge&logo=mobx)
 ![ReactNative](https://img.shields.io/badge/ReactNative-0A090A?style=for-the-badge&logo=reactnative)
 ![Reanimated](https://img.shields.io/badge/Reanimated-0A090A?style=for-the-badge&logo=reanimated)
-![ReactNativeGestureHandler](https://img.shields.io/badge/ReactNativeGestureHandler-0A090A?style=for-the-badge&logo=reactnativegesturehandler)
+![ReactNativeGestureHandler](https://img.shields.io/badge/React%20Native%20Gesture%20Handler-0A090A?style=for-the-badge&logo=reactnativegesturehandler)
 ![Framer](https://img.shields.io/badge/Framer-0A090A?style=for-the-badge&logo=framer)
 ![Vite](https://img.shields.io/badge/Vite-0A090A?style=for-the-badge&logo=vite)
 ![TailwindCss](https://img.shields.io/badge/TailwindCss-0A090A?style=for-the-badge&logo=tailwindcss)
