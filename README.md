@@ -3,7 +3,7 @@
 
 <center>
   
-# I'm strong middle Front-End Developer
+# I'm a strong middle Front-End Developer
 
 ## Languages and Tools
 ![JavaScript](https://img.shields.io/badge/JavaScript-0A090A?style=for-the-badge&logo=javascript)
